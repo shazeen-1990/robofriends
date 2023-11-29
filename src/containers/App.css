@@ -1,0 +1,10 @@
+@font-face {
+  font-family: "sega-logo-font-cufonfonts";
+  font-style: normal;
+  font-weight: normal;
+  src: local("sega-logo-font-cufonfonts"), url("SEGA.TTF") format("ttf");
+}
+
+h1 {
+  font-family: "sega-logo-font-cufonfonts";
+}
